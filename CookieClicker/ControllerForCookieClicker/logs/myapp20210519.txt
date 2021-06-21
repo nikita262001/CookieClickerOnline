@@ -1,0 +1,1687 @@
+2021-05-19 01:20:24.179 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:25:34.463 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:25:49.705 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:26:05.249 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:26:20.389 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:26:34.529 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:26:35.521 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:26:50.655 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:26:54.544 +03:00 [INF] Post Account Success. Логин=
+2021-05-19 01:26:55.751 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:27:05.777 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:27:20.924 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:27:33.312 +03:00 [INF] Post Account BadRequest. Пользователь с таким логином существует.
+2021-05-19 01:27:36.064 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:27:36.390 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:27:42.633 +03:00 [INF] Delete Account Success.
+2021-05-19 01:27:43.795 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:27:51.252 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:28:06.429 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:28:21.562 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:28:36.741 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:28:51.860 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:29:06.975 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:29:22.091 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:29:37.260 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:29:52.382 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:30:07.486 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:30:22.634 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:30:37.760 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:30:52.906 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:31:08.031 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:31:13.528 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:31:23.168 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:31:38.321 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:31:44.105 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:31:53.433 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:32:08.573 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:32:19.292 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:32:23.702 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:32:38.860 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:32:53.978 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:33:09.108 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:33:24.783 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:33:39.954 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:33:55.096 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:34:10.218 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:34:25.344 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:34:40.565 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:34:55.697 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:35:10.822 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:35:25.947 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:35:41.072 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:35:56.177 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:36:11.289 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:36:26.428 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:36:41.573 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:36:56.703 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:37:11.821 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:37:26.974 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:37:42.167 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:37:57.307 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:38:12.441 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:38:18.953 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:38:27.583 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:38:42.725 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:38:57.861 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:39:05.470 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:39:12.993 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:39:28.097 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:39:43.227 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:39:58.376 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:40:13.499 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:40:28.621 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:40:43.724 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:40:58.935 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:41:14.071 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:41:29.192 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:41:44.332 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:41:59.453 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:42:14.623 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:42:29.734 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:42:44.883 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:43:00.018 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:43:15.167 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:43:30.294 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:43:45.421 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:44:00.530 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:44:15.653 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:44:30.777 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:44:45.925 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:45:01.036 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:45:16.144 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:45:31.301 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:45:46.488 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:46:01.693 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:46:12.240 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:46:16.813 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:46:31.939 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:46:47.085 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:47:02.248 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:47:17.369 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:47:32.492 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:47:47.607 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:48:02.754 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:48:17.884 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:48:33.027 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:48:48.205 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:49:03.355 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:49:18.480 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:49:26.006 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:49:33.654 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:49:48.798 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:50:03.988 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:50:19.128 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:50:34.250 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:50:49.384 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:51:04.537 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:51:19.656 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:51:34.768 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:51:49.942 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:52:05.073 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:52:20.181 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:52:35.308 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:52:50.434 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:53:05.548 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:53:20.713 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:53:35.871 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:53:51.004 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:54:06.139 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:54:21.292 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:54:36.419 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:54:51.570 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:55:06.728 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:55:21.887 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:55:36.998 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:55:52.120 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:56:07.251 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:56:22.403 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:56:37.518 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:56:52.663 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:57:07.778 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:57:22.956 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:57:36.681 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:57:38.101 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:57:53.219 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:58:08.346 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:58:23.465 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:58:38.578 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:58:53.714 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:59:08.852 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:59:09.999 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 01:59:23.987 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:59:39.117 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 01:59:54.312 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:00:09.430 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:00:11.446 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:00:24.553 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:00:39.704 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:00:54.844 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:01:09.978 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:01:25.095 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:01:40.223 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:01:55.353 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:02:10.501 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:02:25.650 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:02:40.751 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:02:55.892 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:03:11.007 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:03:26.153 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:03:41.277 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:03:56.420 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:04:10.675 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:04:11.563 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:04:26.692 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:04:41.843 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:04:56.977 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:05:12.129 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:05:27.257 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:05:42.371 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:05:57.522 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:06:12.656 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:06:27.764 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:06:42.922 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:06:58.071 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:07:13.191 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:07:23.010 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:07:28.354 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:07:43.453 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:07:58.611 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:08:13.744 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:08:28.857 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:08:43.964 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:08:59.093 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:09:14.233 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:09:29.362 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:09:44.505 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:09:59.633 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:10:14.766 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:10:29.931 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:10:45.035 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:11:00.178 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:11:15.318 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:11:30.432 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:11:45.558 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:12:00.682 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:12:15.821 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:12:30.933 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:12:46.055 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:13:01.184 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:13:16.329 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:13:31.459 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:13:46.591 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:14:01.710 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:14:16.853 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:14:32.006 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:14:47.129 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:15:02.277 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:15:17.398 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:15:32.535 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:15:47.684 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:16:02.841 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:16:17.959 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:16:33.092 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:16:48.293 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:17:03.457 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:17:18.606 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:17:33.736 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:17:48.886 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:18:04.057 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:18:19.169 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:18:34.282 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:18:49.424 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:19:04.564 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:19:14.333 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:19:19.694 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:19:34.802 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:19:49.920 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:20:05.066 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:20:20.197 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:20:35.331 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:20:50.458 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:21:05.650 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:21:20.787 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:21:35.952 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:21:51.079 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:22:06.258 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:22:21.400 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:22:36.560 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:22:51.707 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:23:06.861 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:23:22.001 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:23:37.149 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:23:52.274 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:24:07.519 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:24:19.928 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:24:22.661 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:24:37.856 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:24:52.955 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:25:08.086 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:25:23.207 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:25:38.365 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:25:53.464 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:26:01.703 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:26:08.629 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:26:23.733 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:26:38.851 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:26:53.984 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:27:09.131 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:27:24.265 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:27:39.406 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:27:54.520 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:28:09.665 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:28:24.827 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:28:40.004 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:28:55.118 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:29:10.287 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:29:25.419 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:29:40.562 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:29:55.677 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:30:10.835 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:30:25.957 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:30:41.109 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:30:56.245 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:31:11.392 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:31:26.513 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:31:41.812 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:31:52.289 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:31:56.941 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:32:12.123 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:32:27.236 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:32:42.376 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:32:57.485 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:33:12.640 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:33:27.774 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:33:39.469 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:33:42.881 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:33:58.004 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:34:13.139 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:34:28.260 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:34:43.401 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:34:58.519 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:35:11.165 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:35:13.642 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:35:28.765 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:35:39.587 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:35:43.876 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:35:52.367 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:35:59.066 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:36:14.220 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:36:29.344 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:36:44.487 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:36:59.618 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:37:14.746 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:37:29.892 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:37:44.999 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:38:00.116 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:38:15.258 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:38:30.373 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:38:45.531 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:39:00.685 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:39:15.846 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:39:30.964 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:39:46.102 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:40:01.248 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:40:16.417 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:40:31.541 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:40:46.681 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:41:01.813 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:41:16.936 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:41:32.078 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:41:47.216 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:42:02.398 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:42:17.540 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:42:32.669 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:42:47.767 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:43:02.884 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:43:18.019 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:43:33.199 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:43:48.361 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:44:03.476 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:44:18.632 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:44:33.747 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:44:48.917 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:45:04.067 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:45:19.180 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:45:34.324 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:45:49.439 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:46:04.575 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:46:19.724 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:46:34.879 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:46:50.020 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:47:05.209 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:47:20.374 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:47:35.540 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:47:50.679 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:48:05.842 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:48:20.989 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:48:36.126 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:48:51.321 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:49:06.499 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:49:21.655 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:49:28.703 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:49:31.202 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:49:34.835 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:49:35.536 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:49:36.806 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:49:45.343 +03:00 [INF] Put Currency Success.
+2021-05-19 02:49:46.308 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:49:51.928 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:50:07.087 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:50:22.248 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:50:34.717 +03:00 [INF] Put Currency Success.
+2021-05-19 02:50:35.654 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:50:37.361 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:50:52.489 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:50:53.673 +03:00 [INF] Put Currency Success.
+2021-05-19 02:50:54.422 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:51:07.622 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:51:08.383 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:51:08.831 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 02:51:09.331 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:51:10.035 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:51:10.226 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:51:10.423 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:51:10.578 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:51:10.826 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:51:11.066 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:51:11.258 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:51:22.835 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:51:37.978 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:51:53.165 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:52:08.359 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:52:23.530 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:52:38.665 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:52:53.823 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:53:09.014 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:53:24.185 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:53:28.423 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:53:39.438 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:53:54.644 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:54:09.812 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:54:24.970 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:54:40.141 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:54:55.294 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:55:10.434 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:55:25.570 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:55:40.740 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:55:55.925 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:56:11.073 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:56:26.234 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:56:41.440 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:56:53.603 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:56:56.652 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в INSERT.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:57:11.809 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в UPDATE.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:57:26.967 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в UPDATE.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:57:42.127 +03:00 [ERR] QiwiRequest.Work Error.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Не удалось вставить значение NULL в столбец "IdCurrency", таблицы "CookieClickerVolkov.dbo.Currency"; в столбце запрещены значения NULL. Ошибка в UPDATE.
+Выполнение данной инструкции было прервано.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TrySetMetaData(_SqlMetaDataSet metaData, Boolean moreInfo)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:ae069c26-e139-4ae4-9699-19199ff8f2da
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 85
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-19 02:58:18.823 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:58:22.440 +03:00 [INF] Post Currency Success.
+2021-05-19 02:58:24.119 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:58:34.038 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:58:36.164 +03:00 [INF] Delete Currency Success.
+2021-05-19 02:58:37.494 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 02:58:49.186 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:59:04.412 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:59:19.554 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:59:34.696 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 02:59:49.838 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:00:05.002 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:00:20.169 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:00:35.316 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:00:50.454 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:01:05.587 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:01:20.753 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:01:35.882 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:01:51.006 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:02:06.117 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:02:21.263 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:02:36.397 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:02:51.540 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:03:06.671 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:03:21.805 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:03:36.944 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:03:52.087 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:04:07.219 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:04:22.340 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:04:37.591 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:04:52.718 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:05:07.842 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:05:22.973 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:05:38.148 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:05:53.262 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:06:08.397 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:06:23.555 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:06:38.707 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:06:53.868 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:07:08.990 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:07:24.126 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:07:39.272 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:07:54.428 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:08:09.587 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:08:24.715 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:08:39.859 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:08:54.987 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:09:00.562 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 03:09:02.155 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-19 03:09:10.113 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:09:11.829 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-19 03:09:12.428 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 03:09:13.078 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 03:09:25.229 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:09:40.389 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:09:55.507 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:10:10.633 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:10:25.799 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:10:40.979 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:10:56.095 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:11:11.210 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:11:26.328 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:11:41.465 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:11:56.606 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:12:11.761 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:12:26.930 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:12:42.081 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:12:57.220 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:13:12.411 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:13:27.527 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:13:42.698 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:13:57.826 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:14:12.976 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:14:28.097 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:14:43.245 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:14:58.385 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:15:13.517 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:15:28.630 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:15:43.762 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:15:58.900 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:16:14.042 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:16:29.200 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:16:44.341 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:16:59.443 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:17:14.561 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:17:29.681 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:17:44.834 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:17:59.957 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:18:15.073 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:18:30.229 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:18:45.449 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:19:00.579 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:19:15.709 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:19:30.845 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:19:45.979 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:20:01.150 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:20:16.272 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:20:31.449 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:20:46.576 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:21:01.711 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:21:16.848 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:21:31.981 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:21:47.123 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:22:02.252 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:22:17.388 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:22:32.545 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:22:47.714 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:23:02.822 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:23:17.971 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:23:33.086 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:23:48.239 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:24:03.360 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:24:18.520 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:24:33.689 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:24:48.829 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:25:03.950 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:25:19.056 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:25:34.180 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:25:49.297 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:26:04.472 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:26:19.599 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:26:34.740 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:26:49.853 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:27:05.012 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:27:20.121 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:27:35.267 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:27:50.409 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:28:05.547 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:28:20.668 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:28:35.810 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:28:50.930 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:29:06.090 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:29:21.237 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:29:36.385 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:29:51.553 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:30:06.679 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:30:21.844 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:30:36.968 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:30:52.102 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:31:07.237 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:31:22.350 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:31:37.454 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:31:52.596 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:32:07.773 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:32:22.904 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:32:38.050 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:32:53.179 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:33:08.328 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:33:23.451 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:33:38.611 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:33:53.741 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:34:08.852 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:34:23.970 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:34:39.122 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:34:54.257 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:35:09.377 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:35:24.566 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:35:39.700 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:35:54.849 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:36:09.956 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:36:25.077 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:36:40.210 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:36:55.367 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:37:10.503 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:37:25.635 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:37:40.768 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:37:55.927 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:38:11.087 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:38:26.211 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:38:41.355 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:38:56.523 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:39:11.660 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:39:26.797 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:39:41.941 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:39:57.093 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:40:12.245 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:40:27.390 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:40:42.511 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:40:57.649 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:41:12.812 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:41:27.949 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:41:43.074 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:42:01.330 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:42:16.488 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:50:18.835 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:50:34.082 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:56:36.102 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 03:56:51.314 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:24:20.240 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:24:35.445 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:27:34.828 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:54:14.735 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:54:30.002 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:54:45.208 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:55:00.324 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:55:15.449 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:55:30.597 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:55:45.751 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:56:00.924 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:56:16.083 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:56:31.244 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:56:46.421 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:57:01.543 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:57:16.694 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:57:31.809 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:57:46.972 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:58:02.114 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:58:17.268 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:58:32.408 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:58:47.518 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:59:02.655 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:59:17.831 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:59:32.985 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 04:59:48.130 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:00:03.240 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:00:18.394 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:00:33.533 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:00:48.693 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:01:03.810 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:01:18.947 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:01:34.088 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:01:49.241 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:02:04.467 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:02:19.653 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:02:34.787 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:02:49.945 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:03:05.091 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:03:20.241 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:03:35.433 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:10:54.214 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 05:11:09.393 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:32:28.397 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 06:32:31.797 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:32:33.642 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 06:32:36.322 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 06:32:37.238 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-19 06:32:38.114 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-19 06:32:42.421 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 06:32:42.451 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-19 06:32:42.851 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 06:32:44.724 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 06:32:45.427 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:32:46.921 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:32:47.978 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:32:51.099 +03:00 [INF] Get IEnumerable<TypeEnhancement> Success.
+2021-05-19 06:32:52.651 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:32:56.945 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:32:58.971 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:33:02.074 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:33:02.894 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 06:33:04.258 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:33:08.605 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:33:10.512 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:33:15.681 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:33:17.207 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:33:19.809 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:33:21.294 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:33:26.403 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:33:30.923 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:33:32.024 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:33:32.394 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:33:47.518 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:34:02.658 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:34:17.844 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:34:32.996 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:34:48.108 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:35:03.218 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:35:18.347 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:35:33.480 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:35:48.608 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:36:03.714 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:36:18.859 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:36:33.998 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:36:49.147 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:37:04.292 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:37:19.479 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:37:34.649 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:37:49.770 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:38:04.889 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:38:19.998 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:38:35.146 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:38:50.266 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:39:05.400 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:39:20.526 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:39:35.641 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:39:50.762 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:40:05.912 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:40:21.025 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:40:36.142 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:40:51.255 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:41:06.369 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:41:21.499 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:41:36.640 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:41:51.777 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:42:06.915 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:42:22.047 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:42:37.182 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:42:52.302 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:43:07.443 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:43:18.731 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-19 06:43:19.615 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-19 06:43:22.580 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:43:37.690 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:43:46.651 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:43:52.832 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:44:07.954 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:44:14.917 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:44:23.064 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:44:38.189 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:44:53.309 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:45:08.444 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:45:23.567 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:45:28.983 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:45:38.721 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:45:53.848 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:46:09.004 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:46:24.143 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:46:38.928 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:46:39.269 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:46:54.409 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:47:09.567 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:47:24.734 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:47:39.858 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:47:54.991 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:48:10.160 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:48:25.301 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:48:40.434 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:48:53.717 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:48:55.548 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:49:10.691 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:49:25.840 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:49:40.978 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:49:43.302 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:49:56.125 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:50:11.259 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:50:26.396 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:52:15.257 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:52:30.434 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:52:45.594 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:52:51.936 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:53:00.755 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:53:15.890 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:55:42.899 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:55:55.440 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:55:58.162 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:56:13.345 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:56:28.463 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:56:43.586 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:56:58.719 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:57:11.816 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:57:13.828 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:57:28.946 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:57:44.075 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:57:47.549 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:58:52.925 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:58:55.227 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:59:08.128 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:59:23.314 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:59:26.053 +03:00 [INF] Post ImageIB Success.
+2021-05-19 06:59:27.212 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:59:28.975 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 06:59:38.467 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 06:59:53.634 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:00:08.770 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:00:23.935 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:00:39.065 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:00:54.237 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:01:09.346 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:01:24.461 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:01:39.627 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:01:54.754 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:02:09.906 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:02:25.028 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:02:40.127 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:02:55.248 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:03:10.373 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:03:25.494 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:03:40.613 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:03:55.751 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:04:10.879 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:04:26.002 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:04:41.124 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:04:56.299 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:05:11.474 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:05:26.595 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:05:41.714 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:05:56.841 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:06:11.984 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:06:27.156 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:06:42.299 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:06:57.454 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:07:12.583 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:07:27.688 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:07:42.800 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:07:57.953 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:08:13.160 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:08:28.355 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:08:43.507 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:08:58.627 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:09:13.763 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:09:28.901 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:09:44.038 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:09:59.171 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:10:14.275 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:10:29.423 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:10:44.579 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:10:59.720 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:11:14.852 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:11:29.968 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:11:45.110 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:12:00.301 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:12:15.462 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:12:30.631 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:12:45.733 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:13:00.866 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:13:15.991 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:13:31.121 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:13:46.257 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:14:01.389 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:14:16.520 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:14:31.646 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:14:46.781 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:15:01.943 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:15:17.102 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:15:32.251 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:15:47.373 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:16:02.501 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:16:17.628 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:16:32.761 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:16:47.885 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:17:03.012 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:17:18.137 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:17:33.310 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:17:48.434 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:18:03.569 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:18:18.705 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:18:33.850 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:18:48.981 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:19:04.143 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:19:19.287 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:19:34.421 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:19:49.535 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:20:04.690 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:20:19.824 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:20:34.971 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:20:50.104 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:21:05.248 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:21:20.387 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:21:35.523 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:21:50.634 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:22:05.761 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:22:20.905 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:22:36.078 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:22:51.200 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:23:06.399 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:23:21.551 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:23:36.691 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:23:51.819 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:24:06.957 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:24:22.093 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:24:37.231 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:24:52.354 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:25:07.495 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:25:22.647 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:25:37.788 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:25:52.907 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:26:08.027 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:26:23.163 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:39:31.085 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:39:34.560 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 07:39:46.278 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:40:01.419 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:40:16.552 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:40:31.720 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:40:46.850 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:41:01.993 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:41:17.151 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:41:32.301 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:41:47.407 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:42:02.545 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:42:09.289 +03:00 [INF] Put ImageIB Success.
+2021-05-19 07:42:10.345 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 07:42:17.663 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:42:32.820 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:42:44.000 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 07:42:44.870 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 07:42:45.595 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-19 07:42:46.285 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-19 07:42:47.133 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 07:42:47.983 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:42:50.708 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 07:42:51.585 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 07:42:52.299 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 07:42:54.122 +03:00 [INF] Get IEnumerable<TypeEnhancement> Success.
+2021-05-19 07:42:55.324 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 07:42:57.274 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 07:42:58.162 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 07:43:03.129 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:43:18.287 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:43:33.401 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:43:35.728 +03:00 [INF] Post Enhancement Success.
+2021-05-19 07:43:37.169 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 07:43:48.537 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:43:53.711 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 07:43:54.905 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 07:43:55.438 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 07:44:02.097 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 07:44:02.794 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 07:44:03.313 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 07:44:03.684 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:44:16.707 +03:00 [INF] Put Enhancement Success.
+2021-05-19 07:44:17.779 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 07:44:18.804 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:44:33.948 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:44:49.070 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:45:04.231 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:45:19.357 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:45:34.485 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:45:49.607 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:46:04.747 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:46:19.860 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:46:34.987 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:46:50.108 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:47:05.235 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:47:20.342 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:47:35.457 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:47:50.598 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:48:05.737 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:48:20.859 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:48:35.969 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:48:43.008 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 07:48:44.188 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 07:48:45.165 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-19 07:48:46.408 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-19 07:48:48.217 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 07:48:49.792 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 07:48:50.479 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 07:48:51.183 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 07:48:51.217 +03:00 [INF] Get IEnumerable<TypeEnhancement> Success.
+2021-05-19 07:49:06.303 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:05:57.306 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:06:12.547 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:06:27.910 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:06:37.640 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 08:06:38.509 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 08:06:39.128 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-19 08:06:39.618 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-19 08:06:40.107 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 08:06:40.559 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 08:06:41.120 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 08:06:41.768 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 08:06:43.056 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:06:43.387 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 08:06:43.855 +03:00 [INF] Get IEnumerable<TypeEnhancement> Success.
+2021-05-19 08:17:19.600 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:17:34.771 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:17:49.968 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:18:05.094 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:18:20.247 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:18:35.397 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:18:50.511 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:19:05.620 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:19:07.836 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 08:19:20.777 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:19:35.904 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:19:36.734 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-19 08:19:37.461 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-19 08:19:40.736 +03:00 [INF] Get IEnumerable<TypeEnhancement> Success.
+2021-05-19 08:19:41.259 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 08:19:51.098 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:20:06.261 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:20:21.446 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:20:25.484 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 08:20:36.565 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:20:51.697 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:20:56.911 +03:00 [INF] Post ImageIB Success.
+2021-05-19 08:20:58.058 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 08:21:06.833 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:21:09.922 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-19 08:21:22.006 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:21:37.119 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:21:52.243 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:22:07.404 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:22:22.536 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:22:37.681 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:22:52.808 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:23:07.923 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:23:23.095 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:23:38.219 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:23:53.353 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 08:24:08.497 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 19:49:38.271 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 19:49:53.355 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 19:49:53.433 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 19:50:08.596 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 19:50:23.736 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 19:50:33.651 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-19 19:50:34.992 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-19 19:50:35.330 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-19 19:50:35.658 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-19 19:50:35.983 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 19:50:36.415 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-19 19:50:38.139 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 19:50:38.512 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 19:50:38.871 +03:00 [INF] Get IEnumerable<TypeEnhancement> Success.
+2021-05-19 19:50:38.940 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 19:50:39.494 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 19:50:54.085 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 19:51:05.714 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 19:51:06.206 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-19 19:51:06.800 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 19:51:09.252 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 19:51:16.540 +03:00 [INF] Post ImageIB Success.
+2021-05-19 19:51:17.929 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-19 19:51:24.365 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 19:51:39.535 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-19 19:51:54.741 +03:00 [INF] QiwiRequest.Work Success.

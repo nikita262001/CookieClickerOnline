@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CookieClicker.Menu">
+    <RelativeLayout x:Name="mainRelative">
+        <Image x:Name="imageBackGround" Aspect="Fill"/>
+        <RelativeLayout x:Name="relativeMenu">
+            <Image x:Name="imageLogotype" Aspect="AspectFit" HorizontalOptions="Center"/>
+            <StackLayout x:Name="stackLogin" Orientation="Horizontal">
+                <Label Text="Логин:" WidthRequest="65" FontSize="17" VerticalTextAlignment="Center" HorizontalTextAlignment="End"/>
+                <Entry x:Name="loginE" Placeholder="Введите логин" HorizontalOptions="FillAndExpand" Margin="0,0,10,0" Text=""/>
+            </StackLayout>
+            <StackLayout x:Name="stackPas" Orientation="Horizontal">
+                <Label Text="Пароль:" WidthRequest="65" FontSize="17" VerticalTextAlignment="Center" HorizontalTextAlignment="End"/>
+                <Entry x:Name="pasE" IsPassword="True"  Placeholder="Введите пароль" HorizontalOptions="FillAndExpand" Margin="0,0,10,0" Text=""/>
+            </StackLayout>
+            <Button x:Name="button" CornerRadius="15" Text="Вход" BackgroundColor="LightSalmon" Clicked="CheckAndPushPage"/>
+            <Button x:Name="buttonRegist" CornerRadius="15" Text="Регистрация" BackgroundColor="LightSalmon" Clicked="RegistrationPage"/>
+        </RelativeLayout>
+    </RelativeLayout>
+</ContentPage>

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\BackgroundCookie.jpg" />
+    <None Remove="Images\icon.png" />
+    <None Remove="Images\LogotypeCookie.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CookieClicker.ClassLibrary\CookieClicker.ClassLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\BackgroundCookie.jpg" />
+    <Resource Include="Images\icon.png" />
+    <Resource Include="Images\LogotypeCookie.png" />
+  </ItemGroup>
+
+</Project>

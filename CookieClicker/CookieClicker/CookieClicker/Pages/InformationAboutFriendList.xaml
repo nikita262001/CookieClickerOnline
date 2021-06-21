@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CookieClicker.Pages.InformationAboutFriendList"
+             BackgroundColor="LightSkyBlue">
+    <StackLayout Margin="10">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="btnAccounts" Text="Пользователи" BackgroundColor="LightSalmon" CornerRadius="15" Clicked="GetAccounts_Clicked"/>
+            <Button x:Name="btnFriendTirget" Grid.Column="1" Text="Друзья" BackgroundColor="LightSalmon" CornerRadius="15" Clicked="GetFriendTarget_Clicked"/>
+            <Button x:Name="btnInvitations" Grid.Column="2" Text="Приглашения" BackgroundColor="LightSalmon" CornerRadius="15" Clicked="GetInvitations_Clicked"/>
+        </Grid>
+        <Label x:Name="titletxt" FontSize="25" HorizontalTextAlignment="Center" Text="Информация о пользователях"/>
+        <CollectionView x:Name="list" SelectionMode="Single" SelectionChanged="GetAccounts_SelectionChanged"/>
+    </StackLayout>
+</ContentPage>

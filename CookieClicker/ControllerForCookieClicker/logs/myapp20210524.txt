@@ -1,0 +1,93 @@
+2021-05-24 22:56:38.724 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:56:53.903 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:57:09.056 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:57:24.175 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:57:39.389 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:57:54.525 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:58:09.647 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:58:24.758 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:58:39.911 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:58:55.043 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:59:10.187 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:59:25.361 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:59:40.470 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 22:59:55.600 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:00:10.789 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:00:25.975 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:00:41.162 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:00:56.360 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:01:11.506 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:01:47.960 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:02:03.211 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:02:10.542 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-24 23:02:18.370 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:02:33.498 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:02:48.627 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:03:03.736 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:03:18.851 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:03:34.010 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:03:49.146 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:04:04.288 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:09:11.124 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-24 23:09:11.323 +03:00 [ERR] QiwiRequest.Work Error.
+System.InvalidOperationException: An attempt was made to use the context while it is being configured. A DbContext instance cannot be used inside 'OnConfiguring' since it is still being configured at this point. This can happen if a second operation is started on this context before a previous operation completed. Any instance members are not guaranteed to be thread safe.
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_Model()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityType()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.CheckState()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.get_EntityQueryable()
+   at Microsoft.EntityFrameworkCore.Internal.InternalDbSet`1.System.Linq.IQueryable.get_Provider()
+   at System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.SaveInDataBaseQiwiPayments(List`1 list) in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 72
+   at ControllerForCookieClicker.Qiwi.QiwiRequest.Work() in C:\Users\nikit\source\repos\CookieClicker\ControllerForCookieClicker\Qiwi\QiwiRequest.cs:line 38
+2021-05-24 23:09:26.768 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:09:28.369 +03:00 [INF] Get IEnumerable<Currency> Success.
+2021-05-24 23:09:29.615 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-24 23:09:30.540 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-24 23:09:31.532 +03:00 [INF] Get IEnumerable<Enhancement> Success.
+2021-05-24 23:09:32.292 +03:00 [INF] Get IEnumerable<EnhancementAccount> Success.
+2021-05-24 23:09:33.156 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-24 23:09:33.677 +03:00 [INF] Get IEnumerable<DonateStatus> Success.
+2021-05-24 23:09:34.135 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-24 23:09:41.885 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:09:57.047 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:09:59.880 +03:00 [INF] Get IEnumerable<Donation> Success.
+2021-05-24 23:10:12.198 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:10:18.540 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-24 23:10:27.359 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:10:41.945 +03:00 [INF] Put ImageIB Success.
+2021-05-24 23:10:42.474 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:10:44.783 +03:00 [INF] Get IEnumerable<ImageIB> Success.
+2021-05-24 23:10:57.651 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:11:12.827 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:11:27.971 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:11:43.096 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:11:58.254 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:12:07.276 +03:00 [INF] Get IEnumerable<Account> Success.
+2021-05-24 23:12:13.388 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:12:28.529 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:12:43.714 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:12:58.886 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:13:14.018 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:13:29.152 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:13:44.266 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:13:59.433 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:14:14.607 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:14:29.811 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:14:44.920 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:15:00.035 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:15:15.137 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:15:30.287 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:15:45.385 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:16:00.490 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:16:15.652 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:16:30.768 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:16:45.862 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:17:00.985 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:17:16.119 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:17:31.257 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:17:46.385 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:18:01.546 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:18:16.724 +03:00 [INF] QiwiRequest.Work Success.
+2021-05-24 23:18:31.910 +03:00 [INF] QiwiRequest.Work Success.

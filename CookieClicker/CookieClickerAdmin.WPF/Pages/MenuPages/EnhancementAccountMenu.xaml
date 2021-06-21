@@ -1,0 +1,62 @@
+﻿<Page x:Class="CookieClickerAdmin.WPF.Pages.MenuPages.EnhancementAccountMenu"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CookieClickerAdmin.WPF.Pages.MenuPages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="EnhancementAccountMenu" Loaded="Page_Loaded">
+
+
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Viewbox Margin="10 0 10 0" HorizontalAlignment="Left">
+            <StackPanel Name="stackPage"  Orientation="Horizontal" Visibility="Hidden">
+                <Button Content="←" Click="LeftPage_Click"/>
+                <TextBlock Margin="10 0 10 0">
+                <Run Text ="0" Name="runNowPage"/>
+                <Run Text=" из "/>
+                <Run Text="0" Name="runMaxPage"/>
+                <Run Text="страниц"/>
+                </TextBlock>
+                <Button Content="→" Click="RightPage_Click"/>
+            </StackPanel>
+        </Viewbox>
+        <ListView Grid.Row="1" x:Name="listEnhancementAccount" Background="Transparent" BorderThickness="0" MouseDoubleClick="listEnhancementAccount_MouseDoubleClick">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderBrush="Black" Background="White" CornerRadius="15" BorderThickness="2" Padding="5" Margin="15">
+                        <StackPanel>
+                            <TextBlock HorizontalAlignment="Left">
+                                <Run Text="IdEnhancementAccount: "/>
+                                <Run Text="{Binding IdEnhancementAccount}"/>
+                            </TextBlock>
+                            <TextBlock HorizontalAlignment="Left">
+                                <Run Text="IdAccount: "/>
+                                <Run Text="{Binding IdAccount}"/>
+                            </TextBlock>
+                            <TextBlock HorizontalAlignment="Left">
+                                <Run Text="IdEnhancement: "/>
+                                <Run Text="{Binding IdEnhancement}"/>
+                            </TextBlock>
+                            <TextBlock HorizontalAlignment="Left">
+                                <Run Text="Количество: "/>
+                                <Run Text="{Binding Quantity}"/>
+                            </TextBlock>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button Grid.Row="2" Content="Добавить"
+                HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0 1 0 1" Click="AddEnhancementAccount_Click"/>
+        <Button Grid.Row="3" Content="Удалить"
+                HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0 1 0 1" Click="RemoveEnhancementAccount_Click"/>
+    </Grid>
+</Page>

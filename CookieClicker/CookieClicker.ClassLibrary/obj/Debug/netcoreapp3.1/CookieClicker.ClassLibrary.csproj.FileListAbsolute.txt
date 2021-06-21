@@ -1,0 +1,9 @@
+C:\Users\nikit\source\repos\CookieClicker\CookieClicker.ClassLibrary\bin\Debug\netcoreapp3.1\CookieClicker.ClassLibrary.deps.json
+C:\Users\nikit\source\repos\CookieClicker\CookieClicker.ClassLibrary\bin\Debug\netcoreapp3.1\CookieClicker.ClassLibrary.dll
+C:\Users\nikit\source\repos\CookieClicker\CookieClicker.ClassLibrary\bin\Debug\netcoreapp3.1\CookieClicker.ClassLibrary.pdb
+C:\Users\nikit\source\repos\CookieClicker\CookieClicker.ClassLibrary\obj\Debug\netcoreapp3.1\CookieClicker.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\CookieClicker\CookieClicker.ClassLibrary\obj\Debug\netcoreapp3.1\CookieClicker.ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\CookieClicker\CookieClicker.ClassLibrary\obj\Debug\netcoreapp3.1\CookieClicker.ClassLibrary.AssemblyInfo.cs
+C:\Users\nikit\source\repos\CookieClicker\CookieClicker.ClassLibrary\obj\Debug\netcoreapp3.1\CookieClicker.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\CookieClicker\CookieClicker.ClassLibrary\obj\Debug\netcoreapp3.1\CookieClicker.ClassLibrary.dll
+C:\Users\nikit\source\repos\CookieClicker\CookieClicker.ClassLibrary\obj\Debug\netcoreapp3.1\CookieClicker.ClassLibrary.pdb

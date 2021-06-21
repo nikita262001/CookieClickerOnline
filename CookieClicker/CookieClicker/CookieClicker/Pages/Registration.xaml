@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CookieClicker.Pages.Registration">
+    
+    <RelativeLayout x:Name="mainRelative">
+        <Image x:Name="imageBackGround" Aspect="Fill"/>
+        <RelativeLayout x:Name="relativeMenu">
+            <Label x:Name="labelTitle" HorizontalOptions="Center" Text="Меню регистрации аккаунта" FontSize="25" 
+                   HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+            <StackLayout x:Name="stackLogin" Orientation="Horizontal">
+                <Label Text="Логин:" WidthRequest="65" FontSize="17" VerticalTextAlignment="Center" HorizontalTextAlignment="End"/>
+                <Entry x:Name="loginE" HorizontalOptions="FillAndExpand" Margin="0,0,10,0" Placeholder="Введите логин" Text=""/>
+            </StackLayout>
+            <StackLayout x:Name="stackPas" Orientation="Horizontal">
+                <Label Text="Пароль:"  WidthRequest="65" FontSize="17" VerticalTextAlignment="Center" HorizontalTextAlignment="End"/>
+                <Entry x:Name="pasE" Placeholder="Введите пароль" IsPassword="True" HorizontalOptions="FillAndExpand" Margin="0,0,10,0" Text=""/>
+            </StackLayout>
+            <Button x:Name="button" CornerRadius="15" Text="Создать аккаунт" BackgroundColor="LightSalmon" Clicked="CheckAndPushPage"/>
+        </RelativeLayout>
+    </RelativeLayout>
+</ContentPage>

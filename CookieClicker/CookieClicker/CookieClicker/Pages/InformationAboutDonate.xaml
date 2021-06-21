@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CookieClicker.Pages.InformationAboutDonate"
+             BackgroundColor="LightSkyBlue">
+
+    <ScrollView VerticalScrollBarVisibility="Default" HorizontalOptions="Center">
+        <StackLayout VerticalOptions="Start" Margin="10">
+            <Label x:Name="title" Text="Информация о пожертвовании" HorizontalOptions="Center" Margin="5,5,5,5"/>
+            <Label x:Name="labelDiscriptions" FontSize="15"/>
+            <Button HorizontalOptions="Center" CornerRadius="15" Text="Далее" FontSize="25" WidthRequest="200" BackgroundColor="LightSalmon" Clicked="ButtonNext_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

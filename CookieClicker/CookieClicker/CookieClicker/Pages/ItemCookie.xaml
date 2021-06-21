@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CookieClicker.ItemCookie">
+    
+    <!--<RelativeLayout x:Name="mainR">
+        <StackLayout x:Name="stackCookies" Background="0, 0, 0, 0.3">
+            <Label x:Name="labelCookies" FontSize="20" HorizontalOptions="CenterAndExpand"/>
+            <Label x:Name="labelCookiesSecond" FontSize="20" HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+        <RelativeLayout x:Name="relativeGoldBar">
+            <Image x:Name="imageCookieGold" Source="Images/GoldCookie.png" Aspect="AspectFit"/>
+            <ProgressBar x:Name="progressCookiesGold" ProgressColor="Gold"/>
+        </RelativeLayout>
+        <ImageButton x:Name="cookie" Source="Images/CookieItem.png" Aspect="AspectFit" Clicked="CookieClick"/>
+        <ImageButton x:Name="shop" Source="Images/Shop.png" Aspect="AspectFit" Clicked="ShopClick"/>
+        <ImageButton x:Name="booster" Source="Images/Boosters.png" Aspect="AspectFit" Clicked="BoosterClick"/>
+        <RelativeLayout x:Name="relativeChocolateBar">
+            <Label x:Name="labelSecondChocolate" FontSize="15" HorizontalOptions="CenterAndExpand"/>
+            <Image x:Name="imageChocolate" Source="Images/Chocolate.png" WidthRequest="20"/>
+            <ProgressBar x:Name="progressChocolate"/>
+        </RelativeLayout>
+    </RelativeLayout>-->
+</ContentPage>

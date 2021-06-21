@@ -1,0 +1,47 @@
+﻿<Page x:Class="CookieClickerAdmin.WPF.Pages.EditPages.DonationMenuEdit"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CookieClickerAdmin.WPF.Pages.EditPages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="DonationMenuEdit" Loaded="Page_Loaded">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                <TextBlock Text="IdDonat: " Width="300" TextAlignment="Right"/>
+                <TextBlock x:Name="txtIdDonat" Width="300" TextAlignment="Left"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                <TextBlock Text="IdQiwi: " Width="300" TextAlignment="Right"/>
+                <TextBlock x:Name="txtIdQiwi" Width="300" TextAlignment="Left"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                <TextBlock Text="Комментарий: " Width="300" TextAlignment="Right"/>
+                <TextBox x:Name="txtComment" Width="300" TextAlignment="Left" Tag="Введите комментарий"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                <TextBlock Text="Дата доната: " Width="300" TextAlignment="Right"/>
+                <TextBlock x:Name="txtDate" Width="300" TextAlignment="Left"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                <TextBlock Text="Сумма к оплате: " Width="300" TextAlignment="Right"/>
+                <TextBlock x:Name="txtPaymentAmount" Width="300" TextAlignment="Left"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                <TextBlock Text="Валюта: " Width="300" TextAlignment="Right"/>
+                <ComboBox x:Name="comboCurrency" Width="300" DisplayMemberPath="Name"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                <TextBlock Text="Статус доната: " Width="300" TextAlignment="Right"/>
+                <ComboBox x:Name="comboStatusDonation" Width="300" DisplayMemberPath="Name"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10" HorizontalAlignment="Center">
+                <Button Content="Отмена" Width="150" Height="35" Margin="10 0 10 0" Click="Cancel_Click"/>
+                <Button Content="Редактировать" Click="EditDonation_Click" Width="150" Height="35" Margin="10 0 10 0"/>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Page>

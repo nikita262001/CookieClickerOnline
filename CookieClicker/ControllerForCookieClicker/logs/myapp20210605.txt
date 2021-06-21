@@ -1,0 +1,4 @@
+2021-06-05 23:14:22.067 +03:00 [INF] GetAll IEnumerable<Account> Success.
+2021-06-05 23:14:30.546 +03:00 [INF] GetAll IEnumerable<Account> Success.
+2021-06-05 23:16:24.094 +03:00 [INF] GetAll IEnumerable<Account> Success.
+2021-06-05 23:18:39.624 +03:00 [INF] GetAll IEnumerable<Account> Success.

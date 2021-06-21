@@ -1,0 +1,22 @@
+﻿<Window x:Class="CookieClickerAdmin.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CookieClickerAdmin.WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="750" Width="1000" Icon="/Images/icon.png">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="6*"/>
+        </Grid.RowDefinitions>
+        <Image Source="/Images/BackgroundCookie.jpg" Grid.RowSpan="2" Stretch="Fill" HorizontalAlignment="Left"/>
+        <StackPanel Orientation="Horizontal" Margin="10 0 0 0">
+            <Image Source="/Images/LogotypeCookie.png" Stretch="Uniform" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="txtTitle" Text="Проверка разработчика" FontSize="25" HorizontalAlignment="Left" Margin="10 0 0 0"/>
+        </StackPanel>
+        <Frame Grid.Row="2" NavigationUIVisibility="Hidden" x:Name="frame"/>
+    </Grid>
+</Window>

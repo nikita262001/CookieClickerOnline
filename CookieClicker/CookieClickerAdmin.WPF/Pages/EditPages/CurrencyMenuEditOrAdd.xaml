@@ -1,0 +1,31 @@
+﻿<Page x:Class="CookieClickerAdmin.WPF.Pages.EditPages.CurrencyMenuEditOrAdd"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CookieClickerAdmin.WPF.Pages.EditPages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="CurrencyMenuEditOrAdd" Loaded="Page_Loaded">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                <TextBlock Text="IdCurrency: " Width="300" TextAlignment="Right"/>
+                <TextBox x:Name="txtIdCurrency" Width="300" TextAlignment="Left" Tag="Введите Id валюты."  PreviewTextInput="OnlyNumber_PreviewTextInput"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                <TextBlock Text="Наименование: " Width="300" TextAlignment="Right"/>
+                <TextBox x:Name="txtName" Width="300" TextAlignment="Left" Tag="Введите наименование"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                <TextBlock Text="Рублей к одной валюте: " Width="300" TextAlignment="Right"/>
+                <TextBox x:Name="txtRublesToOneCurrency" Width="300" TextAlignment="Left" Tag="Введите число" PreviewTextInput="Number_PreviewTextInput"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0 10 0 10" HorizontalAlignment="Center">
+                <Button Content="Отмена" Width="150" Height="35" Margin="10 0 10 0" Click="Cancel_Click"/>
+                <Button x:Name="btnEditOrAdd" Width="150" Height="35" Margin="10 0 10 0"/>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Page>
